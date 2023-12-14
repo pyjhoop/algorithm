@@ -1,4 +1,4 @@
-package 입출력과_사직연산;
+package 입출력과_사칙연산;
 
 import java.util.*;
 import java.io.*;

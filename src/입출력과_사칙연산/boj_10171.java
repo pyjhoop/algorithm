@@ -1,4 +1,4 @@
-package 입출력과_사직연산;
+package 입출력과_사칙연산;
 
 public class boj_10171 {
     public static void main(String[] args) {

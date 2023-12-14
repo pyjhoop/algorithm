@@ -1,8 +1,7 @@
-package 입출력과_사직연산;
+package 입출력과_사칙연산;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.io.*;
 
 public class boj_18108 {
 
