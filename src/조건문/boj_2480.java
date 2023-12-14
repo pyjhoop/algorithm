@@ -25,5 +25,7 @@ public class boj_2480 {
             max = Math.max(max,c);
             System.out.println(max*100);
         }
+
+        br.close();
     }
 }
