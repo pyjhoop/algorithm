@@ -1,7 +1,7 @@
 package org.algorithm.inflearn.string;
 
 import java.io.*;
-public class 단어뒤집기_5 {
+public class 단어뒤집기_4 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
